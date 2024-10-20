@@ -41,7 +41,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Display the logo with centered alignment
-logo_file = '/home/ishantk/Desktop/Attacked.ai/main_logo.png'
+logo_file = 'main_logo.png'
 if logo_file:
     st.image(logo_file, width=200)
 
